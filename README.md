@@ -31,8 +31,8 @@ controlled independently.
 
 ### Reader upload denied
 
-![S3 denied the Reader upload](reader-upload-denied.png)
+![S3 denied the Reader upload](contributor-upload-allowed.png)
 
 ### Contributor upload allowed
 
-![S3 accepted the same file from Contributor](contributor-upload-allowed.png)
+![S3 accepted the Contributor upload](reader-upload-denied.png)
