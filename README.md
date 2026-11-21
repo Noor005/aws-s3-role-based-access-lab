@@ -26,3 +26,13 @@ S3 denied the request as Reader and accepted it as Contributor.
 I also verified that the Contributor could not delete the file it had
 just uploaded. This showed that upload and delete permissions can be
 controlled independently.
+
+## Test evidence
+
+### Reader upload denied
+
+![S3 denied the Reader upload](reader-upload-denied.png)
+
+### Contributor upload allowed
+
+![S3 accepted the same file from Contributor](contributor-upload-allowed.png)
